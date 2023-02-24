@@ -122,3 +122,5 @@ function gemsToDiamond(gemsOne, gemsTwo, gemsThree) {
 }
 
 const resultOfProblemFive = gemsToDiamond(1, 1, 1);
+
+// Complete Assignment
